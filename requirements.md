@@ -1,8 +1,8 @@
 ## Samenvatting
 
-TechITEasy bv wil een applicatie met de volgende punten erin;
+TechITEasy bv wil een applicatie met de volgende punten erin:
 
-- ze hebben 4 soorten producten, TV's , afstandbedienings, muurbeugels en CI-modules.
+- ze hebben 4 soorten producten, TV's , afstandsbedieningen, muurbeugels en CI-modules.
 - onderscheid in rechten binnen app. Hella, Paulus en Robin alles mogelijk. Rest beperkt.
 - volgende (voor alle) productkenmerken; naam, merk, type, prijs en mogelijkheden.
 - voor tv nog extra; schermtype, formaat, schermkwaliteit
@@ -54,4 +54,4 @@ Relaties tussen diverse producten:
 
 ## Klassendiagram
 
-Is bijgevoegd als afbeelding.
+![Diagram](assets/les8-classdiagram.jpg)
